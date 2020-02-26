@@ -1,6 +1,6 @@
 //Edit the below
 
-var contract = '0x313b8211965ea00ced736d9bb059a91cc0902c87';
+var contract = '0x842a0a7f32325b4f965b6a18f64453348d5be98f';
 var maxPosts = 5;
 var twitter = 'anomit';
 var facebook = 'anomit';
