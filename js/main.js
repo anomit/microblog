@@ -46,7 +46,9 @@ $(document).ready(function() {
                     }
                     if (d.photo){
                         $("header").css('background-image', "url('"+d.photo+"')");
+                        $("#postImg").attr("src", d.photo);
                     }
+                    
                 } else {
                     console.log(d);
                 }
